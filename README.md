@@ -1,5 +1,3 @@
-<center>
-
 ### Hi there 👋
 
 <!--
@@ -19,20 +17,14 @@ Here are some ideas to get you started:
 
 <img src="./images/man.png" width="250" height="250"/>
 
-### Learning ...
+<!-- ### Learning ... -->
 
-<div>
-  <!-- ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat) -->
-  <a href="https://www.javascript.com/"><img src="./svg/JavaScript-F7DF1E.svg" alt="JavaScript"></a>
-  <!-- ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat) -->
-  <a href="https://www.typescriptlang.org/"><img src="./svg/TypeScript-3178C6.svg" alt="TypeScript"></a>
-  <!-- ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=flat) -->
-  <a href="https://nodejs.org/"><img src="./svg/Node.svg" alt="Node.js"></a>
+<!-- <div> -->
   <!-- ![Electron Badge](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=fff&style=flat) -->
-  <a href="https://electronjs.org/"><img src="./svg/Electron-47848F.svg" alt="Electron"></a>
+  <!-- <a href="https://electronjs.org/"><img src="./svg/Electron-47848F.svg" alt="Electron"></a> -->
   <!-- ![Blender Badge](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=fff&style=flat) -->
-  <a href="https://www.blender.org/"><img src="./svg/Blender-F5792A.svg" alt="Blender"></a>
-</div>
+  <!-- <a href="https://www.blender.org/"><img src="./svg/Blender-F5792A.svg" alt="Blender"></a> -->
+<!-- </div> -->
 
 ### Learned
 
@@ -41,10 +33,6 @@ Here are some ideas to get you started:
   <a href="https://www.python.org/"><img src="./svg/Python-3776AB.svg" alt="Python"></a>
   <!-- ![Java Badge](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff&style=flat) -->
   <a href="https://www.java.com/"><img src="./svg/Java-ED8B00.svg" alt="Java"></a>
-  <!-- ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat) -->
-  <a href="https://html.com/"><img src="./svg/HTML5-E34F26.svg" alt="HTML5"></a>
-  <!-- ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat) -->
-  <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="./svg/CSS3-1572B6.svg" alt="CSS3"></a>
   <!-- ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat) -->
   <a href="https://isocpp.org/"><img src="./svg/C++-00599C.svg" alt="C++"></a>
   <!-- ![Markdown Badge](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=fff&style=flat) -->
@@ -70,6 +58,17 @@ Here are some ideas to get you started:
   <a href="https://redis.io/"><img src="./svg/Redis-DC382D.svg" alt="Redis"></a>
 </div>
 
+<div>
+  <!-- ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat) -->
+  <a href="https://www.javascript.com/"><img src="./svg/JavaScript-F7DF1E.svg" alt="JavaScript"></a>
+  <!-- ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat) -->
+  <a href="https://www.typescriptlang.org/"><img src="./svg/TypeScript-3178C6.svg" alt="TypeScript"></a>
+  <!-- ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat) -->
+  <a href="https://html.com/"><img src="./svg/HTML5-E34F26.svg" alt="HTML5"></a>
+  <!-- ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat) -->
+  <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="./svg/CSS3-1572B6.svg" alt="CSS3"></a>
+</div>
+
 ### Tools
 
 <div>
@@ -81,6 +80,8 @@ Here are some ideas to get you started:
   <a href="https://www.anaconda.com/"><img src="./svg/Conda-44A833.svg" alt="Conda"></a>
   <!-- ![Maven Badge](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=fff&style=flat) -->
   <a href="https://maven.apache.org/"><img src="./svg/Maven-C71A36.svg" alt="Maven"></a>
+  <!-- ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=flat) -->
+  <a href="https://nodejs.org/"><img src="./svg/Node.svg" alt="Node.js"></a>
   <!-- ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat) -->
   <a href="https://www.docker.com/"><img src="./svg/Docker-2496ED.svg" alt="Docker"></a>
 </div>
@@ -106,5 +107,3 @@ Here are some ideas to get you started:
   <!-- ![WSL Badge](https://img.shields.io/badge/WSL-4D4D4D?logo=windows11&logoColor=fff&style=flat) -->
   <a href="https://learn.microsoft.com/windows/wsl/"><img src="./svg/WSL-4D4D4D.svg" alt="WSL"></a>
 </div>
-
-</center>
